@@ -55,7 +55,7 @@ const WEDDING_CONFIG = {
     brideSide: {
       avatar: "assets/g2.jpg",
       name: "Ngọc Ngà",
-      parents: "Bố: Cao Xuân Thành<br>Mẹ: Nguyễn Thị Vảig",
+      parents: "Bố: Cao Xuân Thành<br>Mẹ: Nguyễn Thị Vải",
       address: "Địa chỉ: Xóm 5, Xuân Vinh, Xuân Trường, Năm Định "
     }
   },
