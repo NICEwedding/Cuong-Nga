@@ -50,13 +50,13 @@ const WEDDING_CONFIG = {
       avatar: "assets/g1.jpg",
       name: "Mạnh Cường ",
       parents: "Bố: Vũ Đăng Luân<br>Mẹ: Đặng Thị Mười",
-      address: "Địa chỉ: Mình Thành, Tân Học, Thái Thụy, Thái Bình	"
+      address: "Địa chỉ: Minh Thành, Tân Học, Thái Thụy, Thái Bình	"
     },
     brideSide: {
       avatar: "assets/g2.jpg",
       name: "Ngọc Ngà",
       parents: "Bố: Cao Xuân Thành<br>Mẹ: Nguyễn Thị Vải",
-      address: "Địa chỉ: Xóm 5, Xuân Vinh, Xuân Trường, Năm Định "
+      address: "Địa chỉ: Xóm 5, Xuân Vinh, Xuân Trường, Nam Định "
     }
   },
 };
